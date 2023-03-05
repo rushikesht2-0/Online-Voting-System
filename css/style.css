@@ -1,0 +1,40 @@
+body{
+    background-color: #badc58;
+    /* text-align: center; */
+}
+#headersection{
+    padding: 2px;
+    font-family: cursive;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;   
+}
+
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 12.5%;
+}
+
+#loginbtn{
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #48dbfb;
+    color: white;
+    font-family: cursive;
+}
+
+#loginname{
+    font-family: cursive;
+}
+
+#photo,#role,#name{
+    font-family: cursive;
+}
+
+label{
+    font-family: cursive;
+}
